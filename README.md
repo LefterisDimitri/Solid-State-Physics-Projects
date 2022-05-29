@@ -1,2 +1,2 @@
 # Solid-State-Physics-Projects
-Projects from our Univeristy course: Solid State Physics
+Projects from our University course: Solid State Physics
