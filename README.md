@@ -1,5 +1,5 @@
-# Solid-State-Physics-Projects
-Projects from our University course: Solid State Physics
+# Computational-Solid-State-Physics-Projects
+Projects from our University course: Computational Solid State Physics
 
 Monte-Carlo simulations
 
